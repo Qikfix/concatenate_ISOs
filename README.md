@@ -4,9 +4,9 @@ Script to concatenate +1 content ISO from Satellite 6.
 
 This script will:
 
-```
 1. Check one structure of directory and sub directory
 
+```
   ISO
    |
    ----rhel6
