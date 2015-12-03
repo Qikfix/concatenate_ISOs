@@ -27,8 +27,6 @@ do
     $Wait
     echo "cp -R $MountPoint/* $Extracted/$b"
     cp -R $MountPoint/* $Extracted
-    echo "Montado .... aguardando"
-    echo "desmontando e aguardando"
     umount $MountPoint
     $Wait
   done
