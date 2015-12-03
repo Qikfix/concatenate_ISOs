@@ -8,13 +8,15 @@
 #               Waiting ... :)
 #
 
-
+# To disable the default alias 'cp -i'
 alias cp=cp
 
+# Variables, ajust here according your environment.
 ISO="/home/wpinheir/SAT/ISO"
 Extracted="/home/wpinheir/SAT/EXTRACTED"
 MountPoint="/mnt"
 Wait="sleep 3"
+## end variables
 
 copy()
 {
