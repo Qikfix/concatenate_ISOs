@@ -4,7 +4,7 @@ Script to concatenate +1 content ISO from Satellite 6.
 
 This script will:
 
-1. Check one structure of directory and sub directory
+* 1. Check one structure of directory and sub directory
 
 ```
   ISO
@@ -19,7 +19,7 @@ This script will:
          |---isos here
 ```
 
-2. Will put the content of all isos together in the same directory
+* 2. Will put the content of all isos together in the same directory
   
 ```
   ISO
@@ -39,7 +39,7 @@ This script will:
    |---- All conent here together
 ```
 
-3. Update all listing files in directories and sub directories according a new structure
+* 3. Update all listing files in directories and sub directories according a new structure
 
 At the end, you can use this content to populate your Satellite 6 locally.
 
