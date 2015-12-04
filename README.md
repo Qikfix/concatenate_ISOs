@@ -43,4 +43,9 @@ This script will:
 
 At the end, you can use this content to populate your Satellite 6 locally.
 
+Ps.: To download the content ISO, you need:
+* 1. Valid Subscription
+* 2. Access https://access.redhat.com/downloads/ - Red Hat Satellite - Content ISOs Tab
+* 3. Download the .iso files that you would like to create a local content repo
+
 B'Regards
